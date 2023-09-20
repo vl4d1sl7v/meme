@@ -1,0 +1,15 @@
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\memento2.exe
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\memento2.deps.json
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\memento2.runtimeconfig.json
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\memento2.runtimeconfig.dev.json
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\memento2.dll
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\ref\memento2.dll
+C:\Users\vl4d1sl7v\source\repos\memento2\bin\Debug\net5.0\memento2.pdb
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.AssemblyInfoInputs.cache
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.AssemblyInfo.cs
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.csproj.CoreCompileInputs.cache
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.dll
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\ref\memento2.dll
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.pdb
+C:\Users\vl4d1sl7v\source\repos\memento2\obj\Debug\net5.0\memento2.genruntimeconfig.cache

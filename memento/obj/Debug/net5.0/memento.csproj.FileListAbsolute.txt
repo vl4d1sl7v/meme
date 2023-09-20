@@ -1,0 +1,16 @@
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\memento.exe
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\memento.deps.json
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\memento.runtimeconfig.json
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\memento.runtimeconfig.dev.json
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\memento.dll
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\ref\memento.dll
+C:\Users\vl4d1sl7v\source\repos\memento\bin\Debug\net5.0\memento.pdb
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.csproj.AssemblyReference.cache
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.AssemblyInfoInputs.cache
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.AssemblyInfo.cs
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.csproj.CoreCompileInputs.cache
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.dll
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\ref\memento.dll
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.pdb
+C:\Users\vl4d1sl7v\source\repos\memento\obj\Debug\net5.0\memento.genruntimeconfig.cache
